@@ -1,0 +1,32 @@
+*{
+    background-color: bisque;
+}
+header{
+    color: aqua;
+    font-style: italic;
+    font-family: 'Lucida Sans',;
+}
+li{
+    list-style-type: square;
+    color: aquamarine;
+}
+h2{
+    font-style: italic;
+    font-family: Verdana;
+    color: rgb(150, 97, 18);
+}
+#babo{
+    text-transform: uppercase;
+    background-color: gold;
+}
+a:hover{
+    color: aqua;
+}
+a:active{
+    color: brown;
+}
+#jamal{
+    border: 4px solid gold;
+    margin: 2em;
+    padding: 2em;
+}
